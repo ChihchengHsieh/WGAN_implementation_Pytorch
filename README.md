@@ -12,4 +12,4 @@ The structure of DCGAN is used in this the WGAN implementation
 
 
 # Result After 1850 steps
-<img src="https://github.com/mike820808/WGAN_implementation_Pytorch/blob/master/Imgs/WGAN_img_1850.png" alt="loss" width="550" height="400">
+<img src="https://github.com/mike820808/WGAN_implementation_Pytorch/blob/master/Imgs/WGAN_img_1850.png" alt="loss" width="200" height="200">
